@@ -4,7 +4,7 @@ title: About Me
 ---
 ### Pablo E. Bullian
 
-I'm a Telecommunications engineer currently in charge of Infrastructure and Security at MedicalWebExperts. I hate manual work, so my passion is to automate everything that I could.
+I'm a Telecommunications engineer currently in charge of Infrastructure and Security at [MedicalWebExperts](https://www.medicalwebexperts.com). I hate manual work, so my passion is to automate everything that I could.
 
 I'm currently living in **Buenos Aires**.
 
@@ -14,11 +14,9 @@ I'm currently living in **Buenos Aires**.
 
 ### IoT
 
-
-
 ### Research
 
-I'm part of CIDI, a research group at UNSAM university in Buenos Aires. We are currently researching about SDN technologies and IoT. I also involved on the recurrent CACIDI researchers conference held in Argentina.
+I'm part of CIDI, a research group at [UNSAM](http://www.unsam.edu.ar) university in Buenos Aires. We are currently researching about SDN technologies and IoT. I also involved on the recurrent CACIDI researchers conference held in Argentina.
 
 ### Teaching
 
