@@ -20,4 +20,6 @@ I'm part of CIDI, a research group at [UNSAM](https://www.unsam.edu.ar) universi
 
 ### Teaching
 
+![](/img/2.jpg)
+
 I'm currently a teaching assistant at [UNSAM](https://www.unsam.edu.ar) on 'Redes, Protocolos y Convergencia I and II' (Networking 101 and 102) for the Telecommunications and electronics engineering programs.
