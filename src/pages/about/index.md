@@ -16,8 +16,8 @@ I'm currently living in **Buenos Aires**.
 
 ### Research
 
-I'm part of CIDI, a research group at [UNSAM](http://www.unsam.edu.ar) university in Buenos Aires. We are currently researching about SDN technologies and IoT. I also involved on the recurrent CACIDI researchers conference held in Argentina.
+I'm part of CIDI, a research group at [UNSAM](https://www.unsam.edu.ar) university in Buenos Aires. We are currently researching about SDN technologies and IoT. I also involved on the recurrent CACIDI researchers conference held in Argentina.
 
 ### Teaching
 
-I'm currently a teaching assistant at UNSAM on 'Redes, Protocolos y Convergencia I and II' (Networking 101 and 102) for the Telecommunications and electronics engineering programs.
+I'm currently a teaching assistant at [UNSAM](https://www.unsam.edu.ar) on 'Redes, Protocolos y Convergencia I and II' (Networking 101 and 102) for the Telecommunications and electronics engineering programs.
