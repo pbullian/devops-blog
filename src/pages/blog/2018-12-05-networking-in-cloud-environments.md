@@ -12,6 +12,8 @@ tags:
   - IEEE
   - UNSAM
 ---
+![](/img/screenshot_2018-12-05_13-35-28.png)
+
 Networking in the cloud differs a lot from traditional networking on physical locations. Starting from creating VPCs, you will notice a different approach (greatly simplified) to have a secure and well managed network environment. 
 
 I also introduced Infrastructure as Code, as a must-have when you are creating this kind of infrastructure.
