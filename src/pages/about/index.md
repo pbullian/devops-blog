@@ -8,7 +8,7 @@ I'm a Telecommunications engineer currently in charge of Infrastructure and Secu
 
 I'm currently living in **Buenos Aires**.
 
-![](/img/jacarandás-arboles.jpg)
+![](/img/tumblr_oz7wqzqr3p1rf9hn3o8_1280.jpg)
 
 ### Automation
 
