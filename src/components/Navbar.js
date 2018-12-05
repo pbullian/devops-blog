@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import logo from '../img/logo.png';
+import logo from '../img/logo3.png';
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" title="Logo">
-          <img src={logo} alt="A Devops World" style={{ height: '70px' }} />
+          <img src={logo} alt="A Devops World" style={{ height: '90px' }} />
         </Link>
       </div>
       <div className="navbar-start">
